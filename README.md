@@ -9,4 +9,4 @@
 ## لینک ها
 [سرور دیسکورد](https://discord.gg/xKBQSjUH4v)
 
-[فایل های ضبط شده](https://mega.nz/todo)
+[فایل های ضبط شده](https://mega.nz/folder/NEdTkQQS#09S9PBFLJ_x92vbckrf_Jg)
