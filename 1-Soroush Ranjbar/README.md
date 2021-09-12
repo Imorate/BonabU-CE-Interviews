@@ -32,4 +32,5 @@
 ## لینک ها
 
 [سرور دیسکورد](https://discord.gg/xKBQSjUH4v)
+
 [لینک همه‌ی مصاحبه ها](https://mega.nz/folder/NEdTkQQS#09S9PBFLJ_x92vbckrf_Jg)

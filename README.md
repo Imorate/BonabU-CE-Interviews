@@ -1,3 +1,5 @@
+![BonabUniversity](BonabUniversity.png)
+
 # مصاحبه های دانشجویان کامپیوتر دانشگاه سراسری بناب
 سری مصاحبه های فارغ التحصیل‌های کامپیوتر دانشگاه بناب با هدف معرفی کنکور ارشد
 
@@ -8,5 +10,6 @@
 
 ## لینک ها
 [سرور دیسکورد](https://discord.gg/xKBQSjUH4v)
+
 
 [فایل های ضبط شده](https://mega.nz/folder/NEdTkQQS#09S9PBFLJ_x92vbckrf_Jg)
